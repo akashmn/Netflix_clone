@@ -2,7 +2,6 @@
   "name": "netflix_clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akashmn.github.io/netflix_clone",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
