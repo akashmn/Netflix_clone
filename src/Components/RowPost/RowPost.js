@@ -15,7 +15,7 @@ function RowPost(props) {
     }).catch(err=>{
       alert('Network Error')
     })
-    
+   // eslint-disable-next-line  
   }, [])
   const opts = {
     height: '390',
